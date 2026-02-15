@@ -1,0 +1,5 @@
+{
+  "name": "GitGamePlatform",
+  "description": "A single-page platform for casual browser games featuring global statistics, local storage persistence, and a modular architecture.",
+  "requestFramePermissions": []
+}
